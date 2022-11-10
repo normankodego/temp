@@ -1,2 +1,2 @@
-# MD3P Git exercies
+# MD3P Git Clone exercies
 Temporary File
